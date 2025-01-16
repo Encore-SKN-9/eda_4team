@@ -5,15 +5,16 @@
 ![alt text](image.png)
 ###### 출처 : https://news.kbs.co.kr/news/pc/view/view.do?ncd=8139571
 
-### 데이터 선택
-데이터는 Kaggle에서 house price prediction으로 검색하여 가장 최근에 업데이트된 데이터를 선정하였다.
-![alt text](image-1.png)
 
+
+### EDA 진행 목차
 1. 데이터 로드
-- 다양한 소스에서 데이터를 로드한다. (파일, 데이터베이스, API 등에서 데이터를 불러온다.)
-- 데이터가 로드된 후에는 구조를 확인하기 위해 첫 몇 줄의 데이터를 출력해 본다.
+- 데이터는 Kaggle에서 house price prediction으로 검색하여 가장 최근에 업데이트된 데이터를 선정하였다.
+![alt text](image-1.png)
+- 데이터 로드![alt text](image-2.png)
 2. 데이터 구조 및 기초 통계 확인
-- 데이터의 구조를 파악하기 위해 컬럼 정보와 데이터 타입을 확인한다.
+- 12개의 문자형 변수와 11개의 숫자형 변수로 구성됨됨
+![alt text](image-3.png)
 - 데이터의 기본 통계 정보를 출력하여 각 변수의 분포와 특성을 살펴본다.
 - df.head(), df.info(), df.describe() 등의 함수를 사용한다.
 3. 결측치 및 이상치 탐색
