@@ -37,9 +37,15 @@
 
 
 4. 데이터 시각화를 통한 탐색
-- 데이터를 시각화하여 변수 간의 관계, 분포 등을 파악한다.
-- 히스토그램, 박스플롯, 상관관계 행렬 등 다양한 그래프를 통해 데이터의 특성을 시각적으로 확인한다.
-- sns.countplot(), sns.heatmap() 등의 함수를 사용한다.
+- HeatMap을 통해 변수별 상관관계를 확인해 보았다.
+![alt text](image-7.png)
+- Regplot을 통해 Target변수와 선형관계를 확인해 보았다.
+![alt text](image-8.png)
+![alt text](image-9.png)
+![alt text](image-10.png)
+- 연도별 건축된 건물의 유형을 확인해 보았다.
+![alt text](image-11.png)
+- 층과 관련된 변수인 Floor_No, Total_Floors와 집값과의 관계를 확인해 보았다.
 
 
 5. 데이터 정제 및 전처리
