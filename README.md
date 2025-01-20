@@ -22,7 +22,8 @@
 ### 프로젝트 소개와 배경
 주택보유율이 낮은 이 시대에 사용자의 내 집 마련을 목표로 주택 특성, 주변 인프라 등을 이용하여 주택 가격을 예측하고 합리적인 주택 구매를 위한 시스템을 설계했습니다.
 
-<img src="https://raw.githubusercontent.com/queryholic/captures/master/lombok-install-eclipse/_1.png" width="650" height="400" />
+<img src="images/image-1.png" width="650" height="400" />
+
 ![alt text](images/image.png){width="100" height="100"}
 ![alt text](images/image.png){width="50" height="50"}
 
