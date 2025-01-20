@@ -56,8 +56,8 @@
 ID 제거
 locality, Year_Built 제거
 Floor_No, Total_Floors 제거 고려
-- 범주형 데이터를 처리하거나, 스케일링 및 정규화를 통해 모델에 적합한 형태로 데이터를 변환한다.
-- 라벨링
+- 라벨링을 통한 범주형 데이터 처리
+![alt text](images/image-13.png)
 - 스케일링
 
 
@@ -66,3 +66,5 @@ Floor_No, Total_Floors 제거 고려
 
 7. 한줄회고
 - 김우중 : 시각화 자료를 너무 안일하게 보고 있었던 것 같다. Heatmap이나 regplot을  보고 데이터를 바꿨어야 했다.
+- 임수연 : 
+- 조민훈 : 
