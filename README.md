@@ -89,9 +89,22 @@
 <br>
 
 ---
+- 사회간접자본에 따른 평균 집값
 
-민훈
+![Relationship between Transport Score and Price in Lakhs](https://github.com/user-attachments/assets/3708ea8e-a0a9-4317-80b1-cb914b70716d)
+![Nearby_Hospitals vs  House Prices (in Lakhs)](https://github.com/user-attachments/assets/cbe8e365-22c5-4488-9450-043b77b791eb)
+![Nearby Schools vs  House Prices (in Lakhs)](https://github.com/user-attachments/assets/2530db8c-f09b-437c-97d9-ab630110fdab)
 
+- 부대시설에 따른 평균 집값
+![Price in Lakhs by Security Availability](https://github.com/user-attachments/assets/81cb6df1-21ba-4012-b744-914ea9b45f60)
+![Price in Lakhs by Parking Space Availability](https://github.com/user-attachments/assets/85677d26-5f0a-4369-9b63-1e7ff0e1733c)
+![Price in Lakhs by Number of Amenities](https://github.com/user-attachments/assets/b93fae53-2848-413c-ae73-659c7badc2e1)
+- 시공상태에 따른 평균 집값
+![Average Price in Lakhs by Availability_Status](https://github.com/user-attachments/assets/86bcb25c-3f8a-404e-8e22-971dc63e90b1)
+- 채광방향에 따른 평균 집값
+![Average Price in Lakhs by Facing](https://github.com/user-attachments/assets/f01f8666-4ce4-4646-b104-ffe6b52c4cdc)
+- 소유주에 따른 평균 집값
+![Average Price in Lakhs by Owner_Type](https://github.com/user-attachments/assets/08f88e3a-b0e0-422f-9e0a-28d4137338f2)
 
 ---
 - 도시/주 별 평균 집값
