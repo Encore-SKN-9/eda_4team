@@ -1,16 +1,31 @@
-# eda_4team
+# SKN09-EDA-4Team
+---
+✅ SKN AI FAMILY CAMP 9기<br>
+✅ 개발 기간: 2025.01.15 - 2025. 01.21
 
-### 팀원
+---
 
-| 김우중 | 임수연 | 조민훈 |
+# 0. Introduction Team(팀 소개)
+### 🏠팀명: Howse<br>
+  부동산(House) 데이터를 어떻게(How?) 분석할 것인가에 대해 연구하는 하우즈입니다.
+### 👩‍💻팀원
+ 
+| 김우중👨‍💻 | 임수연👩‍💻 | 조민훈👨‍💻 |
 |--|--|--|
 |<a href="https://github.com/kwj9942">@kwj9942</a>|<a href="https://github.com/ohback">@ohback</a>|<a href="https://github.com/alche22">@alche22</a>|
+<br>
 
+# 1. 프로젝트 개요 📊📈📍📌🏠🏡✅
+### 프로젝트명
+주택 특성을 이용한 가격 예측
 
+### 프로젝트 소개와 배경
+주택보유율이 낮은 이 시대에 사용자의 내 집 마련을 목표로 주택 특성, 주변 인프라 등을 이용하여 주택 가격을 예측하고 합리적인 주택 구매를 위한 시스템을 설계했습니다.
 
-### 서론
-주택보유율이 낮은 이 시대에 내집 마련에 도움이 되기 위해서 주택 특성을 이용하여 주택가격 예측하고 합리적인 주택 구매를 위하여 시스템을 설계
-![alt text](images/image.png)
+<img src="https://raw.githubusercontent.com/queryholic/captures/master/lombok-install-eclipse/_1.png" width="650" height="400" />
+![alt text](images/image.png){width="100" height="100"}
+![alt text](images/image.png){width="50" height="50"}
+
 ###### 출처 : https://news.kbs.co.kr/news/pc/view/view.do?ncd=8139571
 
 
