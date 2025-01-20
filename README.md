@@ -1,11 +1,10 @@
-# SKN09-EDA-4Team
----
+# [SKN09-EDA-4Team]
 ✅ SKN AI FAMILY CAMP 9기<br>
 ✅ 개발 기간: 2025.01.15 - 2025. 01.21
 
 ---
 
-# Introduction Team(팀 소개)
+# 📍Introduction Team(팀 소개)
 ### 🏠팀명: Howse<br>
   부동산(House) 데이터를 어떻게(How?) 분석할 것인가에 대해 연구하는 하우즈입니다.
 ### 👩‍💻팀원
@@ -15,7 +14,7 @@
 |<a href="https://github.com/kwj9942">@kwj9942</a>|<a href="https://github.com/ohback">@ohback</a>|<a href="https://github.com/alche22">@alche22</a>|
 <br>
 
-# 프로젝트 개요
+# 📍프로젝트 개요
 ### 프로젝트명
 주택 특성을 이용한 가격 예측
 
@@ -30,7 +29,7 @@
 
 ---
 
-# Data Pre-Processing(데이터 전처리)
+# 📍Data Pre-Processing(데이터 전처리)
 ## ✅EDA 진행 목차
 ### 1. 데이터 로드 & 확인<br>
 - Kaggle에서 "House Price Prediction" 으로 검색하여 가장 최근에 업데이트 된 데이터를 선정.
@@ -70,7 +69,7 @@
 
 ---
 
-# 데이터 시각화를 통한 탐색📊
+# 📍데이터 시각화를 통한 탐색📊
 - HeatMap을 통해 변수별 상관관계를 확인해 보았다.
 <img src="images/image-7.png" width="800" height="800" />
 <br>
@@ -95,8 +94,33 @@
 
 
 ---
+- 도시/주 별 평균 집값
+<img src="images/city_state.png" width="800" height="450" />
+<br>
 
-수연
+- 도시/주 별 평균 평당 가격
+<img src="images/city_state_sqft.png" width="800" height="450" />
+<br>
+
+- 전체 평균 집값을 기준, 도시별 평균 이상/이하 비율
+<img src="images/under_above_avg.png" width="800" height="330" />
+<br>
+
+- 집값의 범위를 3구간으로 나누어 출력한 Boxplot과 KDE
+<img src="images/price_range.png" width="800" height="330" />
+<br>
+
+- 도시별/구간별 집값의 비율
+<img src="images/3_range_lakhs.png" width="800" height="330" />
+<br>
+
+- 도시별 100Lakhs 이상 / 400Lakhs 이하 집값의 비율
+<img src="images/100_400lakhs._all_cities.png" width="800" height="330" />
+<br>
+
+- 도시별 100Lakhs 이상 / 400Lakhs 이하 집값의 비율의 하위 10개 도시
+<img src="images/100_400lakhs.png" width="800" height="330" />
+<br>
 
 ---
 
