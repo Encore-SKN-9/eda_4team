@@ -21,7 +21,7 @@
 ### 프로젝트 배경
 - 배경: 주택보유율이 낮은 이 시대에 사용자의 내 집 마련을 목표로 주택 특성, 주변 인프라, 도시별 평균 집값 차이 등에 따른 주택 가격을 예측하고 합리적인 주택 구매를 위한 시스템을 설계했습니다.
 <br>
-<img src="images/image.png" width="1000" height="800" />
+<img src="images/image.png" width="1000" height="700" />
 출처 : https://news.kbs.co.kr/news/pc/view/view.do?ncd=8139571
 <br>
 <br>
@@ -38,11 +38,11 @@
 
 ### 2. 데이터 구조 및 기초 통계 확인
 - 12개의 문자형 변수와 11개의 숫자형 변수로 구성되어 있으며 결측치가 존재하지 않는다.
-<img src="images/image-3.png" width="650" height="500" />
+<img src="images/image-3.png" width="650" height="600" />
 <br>
 
 - 기본 통계 정보를 확인하였을때 0인 값이 존재
-<img src="images/image-4.png" width="650" height="500" />
+<img src="images/image-4.png" width="650" height="400" />
 <br>
 
 - Price_per_SqFt는 제곱피트당 가격으로 0이 나와서는 안되는 값이라 따로 계산해본 결과,<br>소수점 둘째 자리에서 잘리면 0으로 나오는 것을 확인하였다.
@@ -77,9 +77,6 @@
 <img src="images/image-11.png" width="800" height="800" />
 <br>
 
-- 층과 관련된 변수인 Floor_No, Total_Floors와 집값과의 관계를 확인해 보았다.
-<img src="images/image-12.png" width="800" height="350" />
-<br>
 
 ---
 - 사회간접자본에 따른 평균 집값
