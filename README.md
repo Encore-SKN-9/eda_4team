@@ -124,11 +124,11 @@
 <img src="images/3_range_lakhs.png" width="800" height="330" />
 <br>
 
-- 도시별 100Lakhs 이상 / 400Lakhs 이하 집값의 비율
+- 도시별 100Lakhs 이하 / 400Lakhs 이상 집값의 비율
 <img src="images/100_400lakhs._all_cities.png" width="800" height="330" />
 <br>
 
-- 도시별 100Lakhs 이상 / 400Lakhs 이하 집값의 비율의 하위 10개 도시
+- 도시별 100Lakhs 이하 / 400Lakhs 이상 집값의 비율의 하위 10개 도시
 <img src="images/100_400lakhs.png" width="800" height="330" />
 <br>
 
