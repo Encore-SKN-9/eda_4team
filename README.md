@@ -53,12 +53,6 @@
 <img src="images/image-13.png" width="800" height="350" />
 <br>
 
-- Locality 변수는 지역번호로 Locality_1 ~ Locality_500까지의 변수들이 들어있으며,<br>여기에 라벨 인코더를 사용하면 모델에 숫자형 처럼 적용될 것이며,<br>원-핫 인코더를 사용하면 데이터의 변수가 500개 이상으로 나와 분석이 어려워진다.
-<br>
-
-- 필요 없는 변수나 중복 데이터 제거(ID 제거 / locality, Year_Built 제거 / Floor_No, Total_Floors 제거 고려)
-<br>
-
 
 ### 3. 결측치 및 이상치 탐색
 - 데이터 탐색 과정에서 결측치(NaN)가 발견되지 않아 결측치 처리는 생략하였다.
@@ -82,7 +76,7 @@
 - 연도별 건축된 건물의 유형을 확인해 보았다.
 <img src="images/image-11.png" width="800" height="800" />
 <br>
-![alt text](image.png)
+
 - 층과 관련된 변수인 Floor_No, Total_Floors와 집값과의 관계를 확인해 보았다.
 <img src="images/image-12.png" width="800" height="350" />
 <br>
