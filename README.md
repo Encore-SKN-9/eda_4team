@@ -63,7 +63,7 @@
 
 ### 3. 결측치 및 이상치 탐색
 - 데이터 탐색 과정에서 결측치(NaN)가 발견되지 않아 결측치 처리는 생략하였다.
-- 이상치(Outlier)를 탐색하기 위하여 모든 변수에 대해 BoxPlot을 그려 보았으며 이상치를 찾을 수 없었다.
+- 이상치(Outlier)를 탐색하기 위하여 모든 변수에 대해 BoxPlot을 그려 보았으며 대부분의 데이터들이 고르게 분포하는 것을 확인할 수 있었다.
 <img src="images/image-6.png" width="1000" height="600" />
 <br>
 
@@ -83,7 +83,7 @@
 - 연도별 건축된 건물의 유형을 확인해 보았다.
 <img src="images/image-11.png" width="800" height="800" />
 <br>
-
+![alt text](image.png)
 - 층과 관련된 변수인 Floor_No, Total_Floors와 집값과의 관계를 확인해 보았다.
 <img src="images/image-12.png" width="800" height="350" />
 <br>
